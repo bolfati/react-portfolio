@@ -1,17 +1,16 @@
-import React from 'react';
+import { useRouteError } from 'react-router-dom';
 
-export default function HomePage() {
-  
+export default function ErrorPage() {
+  const error = useRouteError();
+  console.error(error);
 
   return (
-
-   
-   
-    <div className="bg-dark text-primary">
-        <h2>
-
-            bijan's home page
-      </h2>
+    <div id="error-page">
+      <h1>Oops!</h1>
+      <p>Sorry, an unexpected error has occurred.</p>
+      <p>
+        <i>{error.statusText || error.message}</i>
+      </p>
     </div>
   );
 }

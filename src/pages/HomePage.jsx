@@ -1,17 +1,9 @@
-import React from 'react';
-
 export default function HomePage() {
-  
 
+  // Iterate over each mock user to display their abridged profile data and a link to their page
   return (
-
-   
-   
-    <div className="bg-dark text-primary">
-        <h2>
-
-            bijan's home page
-      </h2>
+    <div className="container pt-4">
+      <h1>Home</h1>
     </div>
   );
 }
