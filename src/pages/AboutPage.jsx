@@ -10,6 +10,11 @@ export default function AboutPage() {
             Always striving to learn more, Bijan is currently enrolled in the University of Texas San Antonio's Full Stack Software Development Curriculum.
             Never afraid to take leadership roles, Bijan has been a leader in many of his previous positions and is always looking to learn and grow while helping others do the same.
         </p>
+        <p>
+            Bijan is currently looking for a full-stack software development position in the San Antonio area.
+            Please feel free to contact him with any questions or comments.
+        </p>
+        
     </div>
   );
 }
