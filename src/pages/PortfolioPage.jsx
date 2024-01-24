@@ -12,7 +12,7 @@ export default function PortfolioPage() {
   <div className="col-sm-3 m-3"> <a href="https://dashboard.heroku.com/apps/projectafterstory-db"><img src="/assets/projectafterstory.jpg" className="img-fluid" alt="picture of anime database with viewing and comment website"></img></a></div>
   <div className="col-sm-3 m-3"> <a href="https://bolfati.github.io/weather-app/"><img src="/assets/weatherapplication.png" className="img-fluid" alt="picture of application that gives a weather forecast and current temperature and weather inclement based on search"></img></a></div>
   <div className="col-sm-3 m-3"> <a href="https://lillyw54.github.io/weatherbasedapp/"><img src="/assets/weathermusicpredictionapp.png" className="img-fluid" alt="picture of application that provides music based on the searched weather"></img></a></div>
-Name
+
 </div>
 
 

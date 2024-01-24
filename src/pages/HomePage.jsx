@@ -10,7 +10,7 @@ export default function HomePage() {
         </p>
       </div>
 <div>
-    <img className="img-fluid float-right"src="/assets/bigcheetobigbloo.jpg" alt="picture of bijan holding two cats"></img>
+    <img className="img-fluid float-right rounded"src="/assets/bigcheetobigbloo.jpg" alt="picture of bijan holding two cats"></img>
 </div>
 
     </div>
